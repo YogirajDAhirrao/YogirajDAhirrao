@@ -40,9 +40,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogirajdahirrao&theme=radical" alt="GitHub Streak" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogirajah&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
 
 ---
 
