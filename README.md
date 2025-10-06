@@ -64,12 +64,12 @@ I love designing **API architectures**, working on **system-level backend proble
 ---
 
 ## 📊 GitHub Stats
+]
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yogirajdahirrao&show_icons=true&theme=radical" width="45%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=yogirajdahirrao&theme=radical" width="45%" alt="GitHub Streak" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogirajdahirrao&layout=compact&theme=tokyonight" alt="Top Languages" />
