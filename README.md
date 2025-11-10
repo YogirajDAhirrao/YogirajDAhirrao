@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 I'm a passionate **Backend Developer** with hands-on experience in building **scalable, modular, and production-grade systems** using **Node.js, TypeScript, Express, and MongoDB**.  
-I love designing **API architectures**, working on **system-level backend problems**, and exploring technologies like **Go, Java, and distributed systems**.
+I love designing **API architectures**, working on **system-level backend problems**
 
 💡 Currently, I’m learning **AI integrations** for backend systems.  
 🎯 My goal is to become a **software engineer specializing in backend and distributed systems**.
