@@ -48,20 +48,7 @@ I love designing **API architectures**, working on **system-level backend proble
 
 ---
 
-## 🧩 Featured Projects
 
-- **HackMate** – A full-featured team collaboration platform  
-  🔹 Built with Node.js, TypeScript, Express, MongoDB, and React  
-  🔹 Supports JWT authentication, friend system, team invites, and project management  
-  🔹 Deployed on Render + Vercel  
-
-- **Blog API** – RESTful backend using TypeScript, Express, and PostgreSQL with Prisma  
-  🔹 Features JWT cookies, rate limiting, caching, and Swagger docs  
-
-- **Distributed Task Scheduler** – WIP  
-  🔹 Exploring message queues, concurrency control, and fault-tolerant scheduling in TypeScript
-
----
 
 ## 📊 GitHub Stats
 ]
