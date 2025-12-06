@@ -22,6 +22,7 @@ I am a final-year Computer Engineering student at **Bharati Vidyapeeth's College
 | **Tools & DevOps** | Git, GitHub, Docker, Postman, Supabase, Swagger |
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogirajdahirrao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Featured Projects
 
