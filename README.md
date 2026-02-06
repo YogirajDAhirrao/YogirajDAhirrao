@@ -25,47 +25,6 @@ I am a final-year Computer Engineering student at **Bharati Vidyapeeth's College
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogirajdahirrao&layout=compact)
 
 
-## 🚀 Featured Projects
-
-### 🍔 [HungryBud - Microservices Food Ordering System](#)
-*A production-grade backend using microservices architecture.*
-- **Tech Stack:** Node.js, TypeScript, PostgreSQL, Prisma, Docker.
-- **Key Features:**
-  - Designed a microservices architecture separating Auth, Restaurant, and Order services.
-  - Built a centralized **API Gateway** with JWT authentication and request routing.
-  - Implemented robust **Order Management** with atomic transactions and state transitions using Prisma ORM.
-
-### 🤝 [HackMate - Collaborative Platform](#)
-*A scalable full-stack platform enabling developers to form teams and manage projects.*
-- **Tech Stack:** React, Node.js, TypeScript, MongoDB, Socket.io.
-- **Key Features:**
-  - Modular backend architecture with **Role-Based Access Control (RBAC)**.
-  - Secure JWT-based authentication with cookie sessions.
-  - Real-time updates and seamless state management using Context API.
-
-### 📝 [Blogging Platform API](#)
-*A secure and scalable RESTful API for content management.*
-- **Tech Stack:** Express, TypeScript, Prisma, PostgreSQL, Redis.
-- **Key Features:**
-  - Integrated **Redis caching** and rate limiting for performance optimization.
-  - Full API documentation using **Swagger (OpenAPI 3.0)**.
-  - Implemented secure user profile management and password reset flows.
-
----
-
-## 💼 Work Experience
-
-**Python Developer Intern | Sanyu Infotech Pvt Ltd**
-*Dec 2024 - Feb 2025*
-- Strengthened skills in Python and Advanced Python development.
-- Built and integrated database-driven modules and small-scale frontend components.
-
-**Research & Analysis Intern | IMD, Pune**
-*July 2024 - Dec 2024*
-- Collaborated with a team to analyze weather data preprocessing methods.
-- Contributed to a research paper on techniques for preprocessing raw data from Automatic Weather Stations.
-
----
 
 ## 📫 Connect with Me
 
