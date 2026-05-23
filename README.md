@@ -75,7 +75,6 @@ Tools:
 ✓ Delivery Service  
 
 ---
-
 ## Active Learning Queue
 - FastAPI
 - Distributed Systems
