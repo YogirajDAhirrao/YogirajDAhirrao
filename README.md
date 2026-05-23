@@ -1,32 +1,92 @@
-# Hi there, I'm Yogiraj Ahirrao! 👋
+  # SKILLS.md
 
-**Computer Engineering Student | Backend & Full Stack Developer**
+## Identity
+Name: Yogiraj Ahirrao
+Role: Software Engineer (Backend) | Computer Engineering Student
+Status: Building AI-powered backend systems and scalable services
+Location: Pune, India
 
-I am a final-year Computer Engineering student at **Bharati Vidyapeeth's College of Engineering, Pune**. I am passionate about building scalable microservices, optimizing backend architectures, and solving algorithmic problems.
+## Current Focus
+- Backend Engineering
+- AI Applications (RAG, Embeddings, Retrieval)
+- Distributed Systems
+- Microservices Architecture
+- System Design
 
-- 🔭 I’m currently working on **Advanced Backend Systems & Microservices**
-- 🎓 **Education:** B.E. in Computer Engineering (CGPA: 7.8/10)
-- 💼 **Experience:** Former Intern at Sanyu Infotech & IMD Pune
-- 🧠 **Problem Solving:** Solved 150+ DSA problems on coding platforms
+## Languages
+- TypeScript
+- JavaScript
+- Python
+- Java
+- SQL
+- C++
 
----
+## Backend Stack
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- RBAC
+- Cookie-based Authentication
+- Background Jobs
+- File Upload Pipelines
+- API Documentation
 
-## 🛠️ Technical Skills
+## AI Stack
+- Retrieval Augmented Generation (RAG)
+- OpenAI APIs
+- Embeddings
+- Vector Databases
+- Prompt Engineering
+- Document Processing Pipelines
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | JavaScript, TypeScript, C++, Python |
-| **Backend** | Node.js, Express, NestJS, Flask |
-| **Frontend** | React.js, Next.js |
-| **Databases** | MongoDB, PostgreSQL, MySQL, Redis |
-| **Tools & DevOps** | Git, GitHub, Docker, Postman, Supabase, Swagger |
+## Databases
+- PostgreSQL
+- MongoDB
+- Qdrant
+- Redis (basic)
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogirajdahirrao&layout=compact)
+## Frontend
+- React
+- Vite
+- TailwindCSS
+- React Query
+- React Router
 
+## Infrastructure & Tools
+- Git
+- GitHub
+- Docker (learning)
+- Postman
+- Swagger
+- Cloudinary
+- Render
+- Vercel
 
+## Built Systems
+- AI-powered Academic Assistant (RAG + PostgreSQL + Qdrant)
+- Team Collaboration Platform (HackMate)
+- Blog API
+- Food Ordering Microservices
+- Delivery Service
 
-## 📫 Connect with Me
+## Experience
+- Intern — Sanyu Infotech
+- Intern — IMD Pune
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yogirajahirrao123)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:yogirajahirrao@gmail.com)
+## Education
+B.E. Computer Engineering  
+Bharati Vidyapeeth's College of Engineering, Pune  
+CGPA: 7.8/10
+
+## Learning
+- FastAPI
+- Production AI Systems
+- Distributed Systems
+- GenAI Infrastructure
+- Advanced Backend Engineering
+
+## Philosophy
+- Build systems, not tutorials
+- Learn by shipping projects
+- Prioritize fundamentals over trends
