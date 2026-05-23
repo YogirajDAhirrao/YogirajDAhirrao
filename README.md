@@ -1,92 +1,96 @@
-  # SKILLS.md
+# SKILLS.md
 
-## Identity
-Name: Yogiraj Ahirrao
-Role: Software Engineer (Backend) | Computer Engineering Student
-Status: Building AI-powered backend systems and scalable services
-Location: Pune, India
+## Agent
+Name: Yogiraj Ahirrao  
+Type: Backend Engineer / AI Systems Builder  
 
-## Current Focus
-- Backend Engineering
-- AI Applications (RAG, Embeddings, Retrieval)
-- Distributed Systems
-- Microservices Architecture
-- System Design
+---
 
-## Languages
-- TypeScript
-- JavaScript
-- Python
-- Java
-- SQL
-- C++
+## Objective
+Build scalable backend systems, AI-powered applications, and reliable software with a focus on fundamentals and production-grade architecture.
 
-## Backend Stack
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- RBAC
-- Cookie-based Authentication
-- Background Jobs
-- File Upload Pipelines
-- API Documentation
+---
 
-## AI Stack
+## Capabilities
+
+### Backend Engineering
+- Design and build REST APIs
+- Authentication & authorization (JWT, RBAC, Cookies)
+- Database schema design
+- File upload & document processing pipelines
+- Background processing workflows
+- API documentation & testing
+- Microservice-based architectures
+
+### AI Systems
 - Retrieval Augmented Generation (RAG)
-- OpenAI APIs
-- Embeddings
-- Vector Databases
-- Prompt Engineering
-- Document Processing Pipelines
+- Embedding generation & retrieval pipelines
+- Vector database integration
+- LLM application development
+- Document ingestion & chunking
+- Prompt engineering
 
-## Databases
+### Databases
+Supported:
 - PostgreSQL
 - MongoDB
 - Qdrant
 - Redis (basic)
 
-## Frontend
+### Frontend (Working Knowledge)
 - React
-- Vite
 - TailwindCSS
 - React Query
-- React Router
+- Vite
 
-## Infrastructure & Tools
-- Git
-- GitHub
-- Docker (learning)
-- Postman
-- Swagger
-- Cloudinary
-- Render
-- Vercel
+---
 
-## Built Systems
-- AI-powered Academic Assistant (RAG + PostgreSQL + Qdrant)
-- Team Collaboration Platform (HackMate)
-- Blog API
-- Food Ordering Microservices
-- Delivery Service
+## Stack
 
-## Experience
-- Intern — Sanyu Infotech
-- Intern — IMD Pune
+Languages:
+`TypeScript` `JavaScript` `Python` `Java` `SQL` `C++`
 
-## Education
-B.E. Computer Engineering  
-Bharati Vidyapeeth's College of Engineering, Pune  
-CGPA: 7.8/10
+Backend:
+`Node.js` `Express.js`
 
-## Learning
+Infrastructure:
+`Git` `Docker (learning)` `Render` `Vercel` `Cloudinary`
+
+Tools:
+`Postman` `Swagger` `GitHub`
+
+---
+
+## Experience Log
+- Intern @ Sanyu Infotech
+- Intern @ IMD Pune
+
+---
+
+## Systems Built
+✓ AI-powered Academic Assistant (RAG + PostgreSQL + Qdrant)  
+✓ HackMate (Team collaboration platform)  
+✓ Blog API  
+✓ Food Ordering Microservices  
+✓ Delivery Service  
+
+---
+
+## Active Learning Queue
 - FastAPI
-- Production AI Systems
 - Distributed Systems
-- GenAI Infrastructure
+- Production AI Infrastructure
 - Advanced Backend Engineering
 
-## Philosophy
-- Build systems, not tutorials
-- Learn by shipping projects
-- Prioritize fundamentals over trends
+---
+
+## Operating Principles
+1. Learn by building.
+2. Prefer fundamentals over hype.
+3. Build end-to-end systems.
+4. Optimize for scalability and maintainability.
+
+---
+
+## Status
+Currently building → AI + Backend + Systems Engineering
